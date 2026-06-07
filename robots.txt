@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://rainyegan.github.io//sitemap.xml
+Sitemap: https://rainyegan.github.io//portfolio3//sitemap.xml
